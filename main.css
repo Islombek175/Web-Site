@@ -21,4 +21,13 @@ body {
     height: 80%;
     border: 2px solid green;
     margin: auto 5px;
+    box-shadow: 7px 7px 7px rgba(255, 255, 255, 0.8)
+}
+
+.box p {
+    color: white;
+    font-size: 2rem;
+    margin: 5px;
+    font-family: "Satisfy", serif;
+    font-style: normal;
 }
